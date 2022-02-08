@@ -1,5 +1,5 @@
 # Contador-de-Visitas
-Pasar de Servidor Redis a MySQL
+Contador de Visitas a través de la veces de cada IP:
 
 -Instalamos los Servicios LAMP:
 
