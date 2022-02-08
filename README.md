@@ -12,18 +12,18 @@ Pasar de Servidor Redis a MySQL
 
 
 -MySql
-.sudo apt install mysql-server
+.sudo apt install mysql-server;
 .sudo mysql_secure_installation
 
 -PHP 
-.sudo apt install php libapache2-mod-php php-mysql
+.sudo apt install php libapache2-mod-php php-mysql;
 .php -v
 
 
 -Instalamos servidor Redis y creamos scripts
-.sudo apt install -y php-redis
-.sudo nano /var/www/html/test.php
-.sudo nano /var/www/html/hit_counter.php
+.sudo apt install -y php-redis;
+.sudo nano /var/www/html/test.php;
+.sudo nano /var/www/html/hit_counter.php;
 .sudo nano /var/www/html/log_report.php
 
 Para probar Redis:
