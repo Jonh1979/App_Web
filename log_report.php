@@ -17,9 +17,9 @@
         </tr>
 
         <?php
-            $user = "fernando";
-            $password = "123456";
-            $database = "ejemplo_DB";
+            $user = "nombre";
+            $password = "contrasenya";
+            $database = "cualquiera_DB";
 
             try {
 
